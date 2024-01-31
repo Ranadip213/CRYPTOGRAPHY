@@ -49,4 +49,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-*This cryptography code is a part of the PctApp project. For more information, visit [https://github.com/Ranadip213/PctApp](https://github.com/Ranadip213/PctApp).*
+*This cryptography code is a part of the PctApp project. For more information, visit [https://github.com/Ranadip213/PctApp](https://github.com/Ranadip213).*
